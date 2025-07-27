@@ -1,0 +1,42 @@
+.card{
+    border: 1px solid rgba(0, 0, 0, 0);
+    border-radius: 0.7rem;
+    box-shadow:0 0 5px rgba(0, 0, 0, 0.32);
+}
+.cardchild{
+    border: 1px solid rgba(0, 0, 0, 0);
+    margin-top:0.7rem ;
+}
+.tourcard{
+
+
+}
+.desc{
+    margin-top:-0.5rem ;
+    line-height: 25px;
+}
+.name{
+    margin-top:-0.8rem ;
+}
+.notInt{
+    border: 1px solid black;
+    margin-top:1.6rem; 
+    background-color: rgba(255, 0, 0, 0.292);
+    border-radius: 10px;
+    width:70% ;
+    height: 2.5rem;
+    transition: 400ms ;
+    font-weight: 500;
+    font-size: 1rem;
+}
+.notInt:hover{
+    background-color: orangered;
+    color: white;
+
+}
+.btn{
+    background-color: rgba(0, 255, 255, 0.194);
+}
+.btn:hover{
+    background-color: rgba(128, 128, 128, 0.237);
+}
